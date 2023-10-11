@@ -54,3 +54,10 @@
 }
 
 /*Footer Section*/
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+        background-color: red;
+}
+.carousel-indicators li {
+        background-color: black;
+}
